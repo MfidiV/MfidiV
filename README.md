@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vuyolwethu Mfidi</h1>
-<h3 align="center">A passionate Software developer from South Africa</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfidiv" alt="mfidiv" /></a> </p>
 

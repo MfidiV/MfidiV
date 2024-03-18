@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React framework**
 
-- 👨‍💻 All of my projects are available at [https://mfidi-portfolio.vercel.app/](https://mfidi-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://personalportfolio-d7800.web.app/](https://personalportfolio-d7800.web.app/)
 
 - 💬 Ask me about **front-end technologies**
 

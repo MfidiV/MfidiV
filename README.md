@@ -59,6 +59,8 @@ My toolkit includes proficiency in front-end technologies like HTML, CSS, and Ja
 - **Repo:** https://github.com/MfidiV/Thee-Best-Group-Project/tree/Vuyolwethu-Mfidi
 - **Link:** https://thebestconstruction.netlify.app/#
 
+  ### Overall
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfidiv&show_icons=true&locale=en&layout=compact" alt="mfidiv" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfidiv" alt="mfidiv" /></a> </p>

@@ -13,7 +13,7 @@ With a qualification in Software Development, I have acquired a solid foundation
   <h3 align="left">Connect with me:</h3>
 
 - **Email:** [mfidiv@gmail.com]
-- **LinkedIn:** Link to your LinkedIn profile
+- **LinkedIn:** https://www.linkedin.com/in/mfidi-vuyolwethu-577b3ba1/
 - **Personal Website/Blog:** [https://personalportfolio-d7800.web.app/](https://personalportfolio-d7800.web.app/)
 
 
@@ -30,20 +30,20 @@ My toolkit includes proficiency in front-end technologies like HTML, CSS, and Ja
 
 - **Description:** Online portfolio showcasing my skills, projects,creativity and experiences.
 - **Technologies Used:** React, NodeJS, BootStrap, CSS,ThreeJS Animations.
-- **Link:** Link to the project repository or deployed application.
+- **Link:** https://personalportfolio-d7800.web.app/
 
 ### Project : [Bank Application]
 
 - **Description:**A Simple bank application that allows users to Create account,log in, Perform transactions(deposit/withdraw), View transactions history and Reset password as well.
 - **Technologies Used:** Python,Tkinkter,SQLite.
-- **Link:** Link to the project repository or deployed application.
+- **Link:** https://github.com/MfidiV/Bank_Application
 
 
 ### Project 2: [Weather Application]
 
 - **Description:** A web application that allows users to retrieve current weather information for a specific location.
 - **Technologies Used:** HTML, Bootstrap, Flask, Weather API.
-- **Link:** Link to the project repository or deployed application.
+- **Link:** https://github.com/MfidiV/Weather_Ap
 
 
 ## Contributions
@@ -51,12 +51,13 @@ My toolkit includes proficiency in front-end technologies like HTML, CSS, and Ja
 ### Admin Portal
 
 - **Description:** The project aim is to build a user friendly interface for CRUD operations(Create,Read.Update,Delete) on candidates account.
-- **Link:** Link to the repository.
+- **Link:** https://github.com/MfidiV/Admin-portal/tree/Vuyolwethu_Mfidi
 
 ### Construction Company Website
 
 - **Description:** Website to showcast services and offerings of a certain company
-- **Link:** Link to the repository.
+- **Repo:** https://github.com/MfidiV/Thee-Best-Group-Project/tree/Vuyolwethu-Mfidi
+- **Link:** https://thebestconstruction.netlify.app/#
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfidiv&show_icons=true&locale=en&layout=compact" alt="mfidiv" /></p>
 

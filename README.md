@@ -15,7 +15,7 @@ With a qualification in Software Development, I have acquired a solid foundation
 - **Email:** [mfidiv@gmail.com]
 - **LinkedIn:** https://www.linkedin.com/in/mfidi-vuyolwethu-577b3ba1/
 - **Personal Website:** [https://personalportfolio-d7800.web.app/](https://personalportfolio-d7800.web.app/)
-- **Website:** [https://bunoseats.web.app/] (https://bunoseats.web.app/)
+- **Website:** [https://bunoseats.web.app/](https://bunoseats.web.app/)
 
 
 ## Languages and Tools:
